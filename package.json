@@ -1,0 +1,17 @@
+{
+  "name": "2D-2Player-Football",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^1.7.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "andreeabirdie",
+  "license": "ISC",
+  "description": ""
+}
